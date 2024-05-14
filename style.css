@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home {
     display: flex;
-    background: url("images/Untitled design (1).png") no-repeat;
+    background: url("images/Untitled design (3).png") no-repeat;
     color: #fff;
     height: 650px;
     background-size: 100% auto; /* Changed to 100% auto */
